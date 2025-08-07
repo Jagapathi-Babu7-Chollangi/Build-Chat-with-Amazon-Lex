@@ -1,4 +1,4 @@
-# Build-Chat-with-Amazon-Lex
+# Build-Chatbot-with-Amazon-Lex
 A Chat bot which helps customers get responses about  transaction details of Bank, can Check bank balance and make Transfer funds to other user account.
 
 This project showcases a series of chatbots built using Amazon Lex, integrated with AWS Lambda, to simulate intelligent, real-time conversational interfaces. The chatbot handles greetings, fallback cases, user-specific data queries (like account balances), and fund transfers. 
